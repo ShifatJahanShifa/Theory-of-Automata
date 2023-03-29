@@ -1,0 +1,13 @@
+6
+A B C D E F
+2
+0 1
+A
+3
+B C F
+B C
+D E
+E D
+F F
+F F
+F F
