@@ -1,0 +1,4 @@
+3
+S AB
+A aAA|$
+B bBB|$
