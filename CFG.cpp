@@ -1,3 +1,5 @@
+/* context free grammar for unambiguous grammar specified in the grammar2.txt file */
+
 #include<bits/stdc++.h>
 using namespace std;
 
