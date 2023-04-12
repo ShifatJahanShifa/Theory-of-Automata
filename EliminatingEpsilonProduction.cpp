@@ -1,3 +1,5 @@
+/* eliminating epsilon production for any grammar ( generalised version ) */
+
 #include<bits/stdc++.h>
 using namespace std;
 
