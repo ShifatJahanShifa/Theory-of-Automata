@@ -1,0 +1,10 @@
+4
+S A B C
+2
+a b
+4
+S AB|CA
+A a
+B BC|AB
+C aB|b
+S

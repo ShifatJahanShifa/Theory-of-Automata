@@ -1,0 +1,6 @@
+5
+S ABCD
+A aAAA|$
+B bBB|$
+C bC|$
+D aD|$

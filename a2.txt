@@ -1,0 +1,9 @@
+4
+I a|b|Ia|Ib|I0|I1
+F I|(E)
+T F|T*F
+E T|E+T
+8
+a b 0 1 ( ) * +
+4
+I F T E

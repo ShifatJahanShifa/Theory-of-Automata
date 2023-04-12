@@ -1,0 +1,11 @@
+5
+S A B C D
+2
+a b
+5
+S AB|AC
+A aAb|bAa|a
+B AB|bbA|aaB
+C abCA|aDb
+D bD|aC
+S
