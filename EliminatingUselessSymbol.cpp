@@ -1,3 +1,5 @@
+/* eliminating useless symbol for any grammar ( generalised version ) */
+
 #include<bits/stdc++.h>
 using namespace std;
 
